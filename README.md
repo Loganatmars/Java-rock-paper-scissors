@@ -1,3 +1,1 @@
-# RPS-mini-Project
-Rock Paper Scissors Project 
-More Info TBA
+Quick Rock Paper Scissors game that took me WAY TO LONG to make. Might update later, I do enjoy coding as a whole.
